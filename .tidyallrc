@@ -1,0 +1,3 @@
+[Spellunker::Pod]
+select = lib/**/*.{pm,pod}
+stopwords = karupanerura

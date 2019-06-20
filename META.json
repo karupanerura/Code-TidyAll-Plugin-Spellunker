@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Code::TydyAll plugin for Spellunker",
    "author" : [
       "karupanerura <karupa@cpan.org>"
    ],
@@ -42,16 +42,32 @@
       },
       "runtime" : {
          "requires" : {
+            "Code::TidyAll" : "0",
+            "Moo" : "0",
+            "Spellunker" : "0",
             "perl" : "5.008001"
          }
       },
       "test" : {
          "requires" : {
+            "Test::Base" : "0",
+            "Test::MockObject" : "0",
             "Test::More" : "0.98"
          }
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/karupanerura/Code-TidyAll-Plugin-Spellunker/issues"
+      },
+      "homepage" : "https://github.com/karupanerura/Code-TidyAll-Plugin-Spellunker",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/karupanerura/Code-TidyAll-Plugin-Spellunker.git",
+         "web" : "https://github.com/karupanerura/Code-TidyAll-Plugin-Spellunker"
+      }
+   },
    "version" : "0.01",
    "x_serialization_backend" : "JSON::PP version 4.02",
    "x_static_install" : 1
