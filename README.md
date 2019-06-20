@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/karupanerura/Code-TidyAll-Plugin-Spellunker.svg?branch=master)](https://travis-ci.com/karupanerura/Code-TidyAll-Plugin-Spellunker) [![Coverage Status](http://codecov.io/github/karupanerura/Code-TidyAll-Plugin-Spellunker/coverage.svg?branch=master)](https://codecov.io/github/karupanerura/Code-TidyAll-Plugin-Spellunker?branch=master) [![MetaCPAN Release](https://badge.fury.io/pl/Code-TidyAll-Plugin-Spellunker.svg)](https://metacpan.org/release/Code-TidyAll-Plugin-Spellunker)
 # NAME
 
 Code::TidyAll::Plugin::Spellunker - Code::TydyAll plugin for Spellunker
